@@ -1,0 +1,68 @@
+.wrapper {
+  text-align: center;
+}
+
+.title-wrapper {
+  margin-bottom: 10px;
+}
+
+.open-pane-button {
+  display: inline-block;
+}
+
+.pane {
+  display: inline-block;
+  width: 300px;
+  padding: 15px;
+  position: relative;
+  border-radius: 8px;
+  box-shadow: 0 5px 9px rgba(0, 0, 0, 0.09);
+}
+
+.img-wrapper-round {
+  display: inline-block;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.doge-img {
+  width: 320px;
+  margin-left: -70px;
+}
+
+.tip {
+  position: absolute;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+.tip-0 {
+  position: static;
+  font-family: inherit;
+}
+
+.tip-1 {
+  top: 160px;
+  left: 180px;
+}
+
+.tip-2 {
+  top: 80px;
+  left: 30px;
+}
+
+.tip-3 {
+  top: 60px;
+  left: 230px;
+}
+
+.tip-4 {
+  top: 100px;
+  left: 230px;
+}
+
+.tip-5 {
+  top: 190px;
+  left: 30px;
+}
